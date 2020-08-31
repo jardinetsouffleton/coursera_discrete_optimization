@@ -6,6 +6,8 @@ from __future__ import print_function
 import json
 import time
 import os
+import sys
+# os.chdir('./knapsack')
 from collections import namedtuple
 
 
